@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715098132 source:c:\users\magom\documents\new project\main.c
+	<stdio.h>
+	<time.h>
+	<unistd.h>
+	<stdlib.h>
+
